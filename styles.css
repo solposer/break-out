@@ -1,0 +1,33 @@
+.grid {
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid 1px black;
+    margin-top: 100px;
+  }
+  
+  .user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background:linear-gradient(rgb(7, 159, 40),rgb(93, 224, 78));
+    border-radius: 15px;
+  }
+  
+  .block {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background:linear-gradient(rgb(111, 111, 225),rgb(64, 172, 225),rgb(44, 37, 31));
+  }
+  
+  .ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background:radial-gradient(rgb(229, 38, 98),rgb(86, 10, 10));
+  }
+  h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
